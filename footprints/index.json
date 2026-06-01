@@ -1,0 +1,475 @@
+[
+  {
+    "id": 2720666271,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/large/airfield_1.prefab",
+    "file": "2720666271.bin",
+    "res": 257,
+    "size": [
+      512.0,
+      600.0,
+      512.0
+    ],
+    "extents": [
+      256.0,
+      300.0,
+      256.0
+    ],
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 280.0,
+    "fade": 80.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      200.0,
+      100.0,
+      150.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/airfield/airfield_1/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/airfield/airfield_1/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/airfield/airfield_1/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/airfield/airfield_1/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/airfield/airfield_1/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/airfield/airfield_1/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/airfield/airfield_1/topologytexture.png"
+    }
+  },
+  {
+    "id": 3422899798,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/large/water_treatment_plant_1.prefab",
+    "file": "3422899798.bin",
+    "res": 257,
+    "size": [
+      500.0,
+      600.0,
+      500.0
+    ],
+    "extents": [
+      250.0,
+      300.0,
+      250.0
+    ],
+    "offset": [
+      0.0,
+      -9.0,
+      0.0
+    ],
+    "radius": 280.0,
+    "fade": 80.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/water treatment plant/water_treatment_plant/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/water treatment plant/water_treatment_plant/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/water treatment plant/water_treatment_plant/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/water treatment plant/water_treatment_plant/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/water treatment plant/water_treatment_plant/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/water treatment plant/water_treatment_plant/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/water treatment plant/water_treatment_plant/topologytexture.png"
+    }
+  },
+  {
+    "id": 4273840478,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/large/trainyard_1.prefab",
+    "file": "4273840478.bin",
+    "res": 257,
+    "size": [
+      500.0,
+      600.0,
+      500.0
+    ],
+    "extents": [
+      250.0,
+      300.0,
+      250.0
+    ],
+    "offset": [
+      0.0,
+      -6.0,
+      0.0
+    ],
+    "radius": 250.0,
+    "fade": 80.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/trainyard/trainyard/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/trainyard/trainyard/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/trainyard/trainyard/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/trainyard/trainyard/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/trainyard/trainyard/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/trainyard/trainyard/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/trainyard/trainyard/topologytexture.png"
+    }
+  },
+  {
+    "id": 158704173,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab",
+    "file": "158704173.bin",
+    "res": 257,
+    "size": [
+      500.0,
+      600.0,
+      500.0
+    ],
+    "extents": [
+      250.0,
+      300.0,
+      250.0
+    ],
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 250.0,
+    "fade": 80.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/powerplant/powerplant/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/powerplant/powerplant/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/powerplant/powerplant/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/powerplant/powerplant/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/powerplant/powerplant/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/powerplant/powerplant/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/powerplant/powerplant/topologytexture.png"
+    }
+  },
+  {
+    "id": 2200048243,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/medium/junkyard_1.prefab",
+    "file": "2200048243.bin",
+    "res": 257,
+    "size": [
+      500.0,
+      90.0,
+      500.0
+    ],
+    "extents": [
+      250.0,
+      45.0,
+      250.0
+    ],
+    "offset": [
+      0.0,
+      -6.760000228881836,
+      0.0
+    ],
+    "radius": 250.0,
+    "fade": 80.0,
+    "priority": 3,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/junkyard/junkyard/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/junkyard/junkyard/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/junkyard/junkyard/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/junkyard/junkyard/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/junkyard/junkyard/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/junkyard/junkyard/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/junkyard/junkyard/topologytexture.png"
+    }
+  },
+  {
+    "id": 182769745,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/small/satellite_dish.prefab",
+    "file": "182769745.bin",
+    "res": 257,
+    "size": [
+      256.0,
+      1000.0,
+      256.0
+    ],
+    "extents": [
+      128.0,
+      500.0,
+      128.0
+    ],
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 190.0,
+    "fade": 80.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      75.0,
+      75.0,
+      75.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/satellite dish/satellite_dish/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/satellite dish/satellite_dish/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/satellite dish/satellite_dish/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/satellite dish/satellite_dish/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/satellite dish/satellite_dish/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/satellite dish/satellite_dish/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/satellite dish/satellite_dish/topologytexture.png"
+    }
+  },
+  {
+    "id": 973576591,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab",
+    "file": "973576591.bin",
+    "res": 257,
+    "size": [
+      250.0,
+      600.0,
+      250.0
+    ],
+    "extents": [
+      125.0,
+      300.0,
+      125.0
+    ],
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 90.0,
+    "fade": 40.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      50.0,
+      50.0,
+      50.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/gas_station/gas_station/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/gas_station/gas_station/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/gas_station/gas_station/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/gas_station/gas_station/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/gas_station/gas_station/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/gas_station/gas_station/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/gas_station/gas_station/topologytexture.png"
+    }
+  },
+  {
+    "id": 4255620866,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/roadside/supermarket_1.prefab",
+    "file": "4255620866.bin",
+    "res": 257,
+    "size": [
+      250.0,
+      600.0,
+      250.0
+    ],
+    "extents": [
+      125.0,
+      300.0,
+      125.0
+    ],
+    "offset": [
+      0.0,
+      -3.0,
+      0.0
+    ],
+    "radius": 90.0,
+    "fade": 40.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      50.0,
+      50.0,
+      50.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/supermarket/supermarket/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/supermarket/supermarket/blendtexture.png",
+      "alphamap": "",
+      "splatmap0": "assets/scenes/prefabs/supermarket/supermarket/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/supermarket/supermarket/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/supermarket/supermarket/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/supermarket/supermarket/topologytexture.png"
+    }
+  },
+  {
+    "id": 891304283,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab",
+    "file": "891304283.bin",
+    "res": 129,
+    "size": [
+      128.0,
+      1000.0,
+      128.0
+    ],
+    "extents": [
+      64.0,
+      500.0,
+      64.0
+    ],
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 80.0,
+    "fade": 40.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      25.0,
+      25.0,
+      25.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/mining/warehouse/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/mining/warehouse/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/mining/warehouse/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/mining/warehouse/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/mining/warehouse/splattexture1.png",
+      "biomemap": "",
+      "topologymap": "assets/scenes/prefabs/mining/warehouse/topologytexture.png"
+    }
+  },
+  {
+    "id": 2148214341,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab",
+    "file": "2148214341.bin",
+    "res": 257,
+    "size": [
+      250.0,
+      600.0,
+      250.0
+    ],
+    "extents": [
+      125.0,
+      300.0,
+      125.0
+    ],
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 80.0,
+    "fade": 40.0,
+    "priority": 2,
+    "boundsCenter": [
+      2.9000000953674316,
+      0.0,
+      -4.760000228881836
+    ],
+    "boundsExtent": [
+      27.5,
+      27.5,
+      27.5
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/mining quarries/mining_quarry_a/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/mining quarries/mining_quarry_a/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/mining quarries/mining_quarry_a/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/mining quarries/mining_quarry_a/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/mining quarries/mining_quarry_a/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/mining quarries/mining_quarry_a/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/mining quarries/mining_quarry_a/topologytexture.png"
+    }
+  },
+  {
+    "id": 3903103539,
+    "prefab": "assets/bundled/prefabs/autospawn/monument/small/sphere_tank.prefab",
+    "file": "3903103539.bin",
+    "res": 257,
+    "size": [
+      256.0,
+      1000.0,
+      256.0
+    ],
+    "extents": [
+      128.0,
+      500.0,
+      128.0
+    ],
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "radius": 150.0,
+    "fade": 60.0,
+    "priority": 2,
+    "boundsCenter": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "boundsExtent": [
+      50.0,
+      50.0,
+      50.0
+    ],
+    "textures": {
+      "heightmap": "assets/scenes/prefabs/sphere tank/sphere_tank/heighttexture.png",
+      "blendmap": "assets/scenes/prefabs/sphere tank/sphere_tank/blendtexture.png",
+      "alphamap": "assets/scenes/prefabs/sphere tank/sphere_tank/alphatexture.png",
+      "splatmap0": "assets/scenes/prefabs/sphere tank/sphere_tank/splattexture0.png",
+      "splatmap1": "assets/scenes/prefabs/sphere tank/sphere_tank/splattexture1.png",
+      "biomemap": "assets/scenes/prefabs/sphere tank/sphere_tank/biometexture.png",
+      "topologymap": "assets/scenes/prefabs/sphere tank/sphere_tank/topologytexture.png"
+    }
+  }
+]

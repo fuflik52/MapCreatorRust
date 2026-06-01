@@ -1,0 +1,5 @@
+out/
+*.exe
+*.map
+*.log
+*.tmp
